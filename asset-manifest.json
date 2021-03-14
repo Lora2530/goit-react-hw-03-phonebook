@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.c2b48b88.chunk.css",
-    "main.js": "/static/js/main.abd4419d.chunk.js",
-    "main.js.map": "/static/js/main.abd4419d.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.42b4c2f9.js",
-    "runtime-main.js.map": "/static/js/runtime-main.42b4c2f9.js.map",
-    "static/css/2.de71bbd8.chunk.css": "/static/css/2.de71bbd8.chunk.css",
-    "static/js/2.e65c1e97.chunk.js": "/static/js/2.e65c1e97.chunk.js",
-    "static/js/2.e65c1e97.chunk.js.map": "/static/js/2.e65c1e97.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/2.de71bbd8.chunk.css.map": "/static/css/2.de71bbd8.chunk.css.map",
-    "static/css/main.c2b48b88.chunk.css.map": "/static/css/main.c2b48b88.chunk.css.map",
-    "static/js/2.e65c1e97.chunk.js.LICENSE.txt": "/static/js/2.e65c1e97.chunk.js.LICENSE.txt"
+    "main.css": "/goit-react-hw-03-phonebook/static/css/main.c2b48b88.chunk.css",
+    "main.js": "/goit-react-hw-03-phonebook/static/js/main.abd4419d.chunk.js",
+    "main.js.map": "/goit-react-hw-03-phonebook/static/js/main.abd4419d.chunk.js.map",
+    "runtime-main.js": "/goit-react-hw-03-phonebook/static/js/runtime-main.c182fc5d.js",
+    "runtime-main.js.map": "/goit-react-hw-03-phonebook/static/js/runtime-main.c182fc5d.js.map",
+    "static/css/2.de71bbd8.chunk.css": "/goit-react-hw-03-phonebook/static/css/2.de71bbd8.chunk.css",
+    "static/js/2.e65c1e97.chunk.js": "/goit-react-hw-03-phonebook/static/js/2.e65c1e97.chunk.js",
+    "static/js/2.e65c1e97.chunk.js.map": "/goit-react-hw-03-phonebook/static/js/2.e65c1e97.chunk.js.map",
+    "index.html": "/goit-react-hw-03-phonebook/index.html",
+    "static/css/2.de71bbd8.chunk.css.map": "/goit-react-hw-03-phonebook/static/css/2.de71bbd8.chunk.css.map",
+    "static/css/main.c2b48b88.chunk.css.map": "/goit-react-hw-03-phonebook/static/css/main.c2b48b88.chunk.css.map",
+    "static/js/2.e65c1e97.chunk.js.LICENSE.txt": "/goit-react-hw-03-phonebook/static/js/2.e65c1e97.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.42b4c2f9.js",
+    "static/js/runtime-main.c182fc5d.js",
     "static/css/2.de71bbd8.chunk.css",
     "static/js/2.e65c1e97.chunk.js",
     "static/css/main.c2b48b88.chunk.css",
